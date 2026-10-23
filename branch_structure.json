@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-250-high-easy-remove-the-duplicate-13-mb-query402",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-250-high-easy-remove-the-duplicate-13-mb-query402": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-250-high-easy-remove-the-duplicate-13-mb-query402",
+    "origin"
+  ]
+}
